@@ -268,7 +268,7 @@ http://pfsv.io:80/00826082/94250/334
 http://pfsv.io:80/00826082/94250/112
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Variedades",Mais GloboSat SD
 http://pfsv.io:80/00826082/94250/121
-#EXTINF:-1 tvg-logo="hhttps://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",Megapix HD
+#EXTINF: -1 tvg-logo = "https: //i.imgur.com/Xu2vVd5.png" group-title = "Canais | Filmes e Séries", Megapix HD
 http://pfsv.io:80/00826082/94250/310
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xu2vVd5.png" group-title="Canais | Filmes e Séries",MegaPix SD
 http://pfsv.io:80/00826082/94250/335
